@@ -13,7 +13,7 @@ body {
 
   font-weight: 400;
 
-  font-style: italic bold;
+  font-style: bold;
 }
 
 nav {
@@ -71,6 +71,6 @@ main > .container {
   width: 100%;
 }
 footer .social > a:hover {
-  color: var(--sjw-secondary-color);
+  color: orangered;
   opacity: 0.9;
 }
